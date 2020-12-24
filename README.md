@@ -1,9 +1,6 @@
 I write these codes for my final project.
 
 Recently, I read the article: Optimizing the use of response times for item selection in CAT, which published at JEBS in 2018.
-
-Choe, E. M., Kern, J. L., & Chang, H. H. (2018). Optimizing the use of response times for item selection in computerized adaptive testing. Journal of Educational and Behavioral Statistics, 43(2), 135-158.
-
 Being interested in the Generalized MIT (GMIT) method, I try to present the results of study 1 with set1 under the "v = 1, w = 0.5" condition.
 
 Three item selection methods were compared (ie., Random selection method, maximum Fisher information selection method and GMIT method with v = 1, w = 0.5).
@@ -46,3 +43,7 @@ The estimation main body and the computation of seven evaluation criteria (ie., 
 Save results and return evaluation indexs and timecost to the console.
 
 You can use these codes to try using response times for item selection in CAT! Also, feel free to ask me any question.
+
+Reference
+
+Choe, E. M., Kern, J. L., & Chang, H. H. (2018). Optimizing the use of response times for item selection in computerized adaptive testing. Journal of Educational and Behavioral Statistics, 43(2), 135-158.
