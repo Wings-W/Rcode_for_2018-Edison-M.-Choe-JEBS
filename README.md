@@ -31,12 +31,15 @@ I. define function9: estimate speed parameter for an examinee with maximum likel
 
 
 #set variables
+
 I set some variables used in this study and generate item and person parameters in this part.
 
 #main body
+
 The estimation main body and the computation of seven evaluation criteria (ie., bias and RMSE of theta, bias and RMSE of tau, M and SD of testing times, mean of testing overlap rate).
 
 #save results
+
 Save results and return evaluation indexs and timecost to the console.
 
 You can use these codes to try using response times for item selection in CAT! Also, feel free to ask me any question.
