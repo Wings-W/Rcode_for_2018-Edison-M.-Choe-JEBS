@@ -11,6 +11,7 @@ THE PROJECT FRAMEWORK:
 
 #define function
 A. define function1: compute Fisher information for dichotomous IRT model.
+
 B. define function2: generate response data for an examinee;
 C. define function3: generate response time for an examinee;
 D. define function4: Random selection method;
