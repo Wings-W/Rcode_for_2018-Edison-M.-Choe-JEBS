@@ -1,5 +1,5 @@
 ######################################################################
-## R code for£º                                                     ##
+## R code for:                                                      ##
 ## Optimizing the use of response times for item selection in CAT   ##
 ## DOI: 10.3102/1076998617723642                                    ##
 ## Edison M. Choe                                                   ##
